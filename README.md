@@ -15,7 +15,7 @@ Fanglan Chen, Zhiqian Chen, Subhodip Biswas, Shuo Lei, Naren Ramakrishnan, and C
 
 ## Datasets
 
-The DKFN model is tested on two real-world traffic speed datasets, METR-LA data and Seattle Inductive Loop Detector data. The METR-LA data is shared in the METR_LA_Dataset folder. The Seattle-Loop data is acquired from [Link](https://github.com/zhiyongc/Seattle-Loop-Data). You can go to the original link to download the 2015 year-round data or assess a 3-month (Jun-Aug) via [Google Drive](https://drive.google.com/drive/folders/14Ub7q09SCzjIikNcJBMC1Z7dZPLX4xpJ?usp=sharing).
+The DKFN model is tested on two real-world traffic speed datasets, METR-LA data and Seattle-Loop data. The METR-LA data is shared in the METR_LA_Dataset folder. The Seattle-Loop data is acquired from [Link](https://github.com/zhiyongc/Seattle-Loop-Data). You can go to the original link to download the 2015 year-round data or assess a 3-month (Jun-Aug) via [Google Drive](https://drive.google.com/drive/folders/14Ub7q09SCzjIikNcJBMC1Z7dZPLX4xpJ?usp=sharing).
 
 To run the code, you need to download the traffic speed data and graph adjacency matrix and put them in the corresponding "_Dataset" folder.
 
