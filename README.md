@@ -2,7 +2,7 @@
 
 ![Deep Kalman Filtering Network](Figures/DKFN_model_architecture.png)
 
-This is a PyTorch implementation of Deep Kalman Filtering Network in the following poster paper: \
+This is a PyTorch implementation of Deep Kalman Filtering Network(DKFN) in the following poster paper: \
 Fanglan Chen, Zhiqian Chen, Subhodip Biswas, Shuo Lei, Naren Ramakrishnan, and Chang-Tien Lu, [Graph Convolutional Networks with Kalman Filtering for Traffic Prediction](https://dl.acm.org/doi/10.1145/3397536.3422257), SIGSPATIAL 2020.
 
 ## Requirements
